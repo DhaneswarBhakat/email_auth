@@ -64,6 +64,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '697299245775',
     projectId: 'emailauth-46527',
     storageBucket: 'emailauth-46527.appspot.com',
+    iosClientId: '697299245775-dcveidblgjnu12qmk104m1qrg8q1gqgj.apps.googleusercontent.com',
     iosBundleId: 'com.example.emailAuth',
   );
 
@@ -73,6 +74,7 @@ class DefaultFirebaseOptions {
     messagingSenderId: '697299245775',
     projectId: 'emailauth-46527',
     storageBucket: 'emailauth-46527.appspot.com',
+    iosClientId: '697299245775-dcveidblgjnu12qmk104m1qrg8q1gqgj.apps.googleusercontent.com',
     iosBundleId: 'com.example.emailAuth',
   );
 
